@@ -65,7 +65,7 @@ button {
 }
 
 button:hover {
-    background-color: #6166fb;
+    background-color: #080808;
     font-size: 18px;
     font-weight: bold;
     box-shadow: 1px 1px 10px 0px whitesmoke;
